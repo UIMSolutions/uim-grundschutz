@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/uim-grundschutz
+uim-grundschutz.so
+uim-grundschutz.dylib
+uim-grundschutz.dll
+uim-grundschutz.a
+uim-grundschutz.lib
+uim-grundschutz-test-*
+*.exe
+*.o
+*.obj
+*.lst
