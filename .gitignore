@@ -13,3 +13,4 @@ uim-grundschutz-test-*
 *.o
 *.obj
 *.lst
+dub.selections.json

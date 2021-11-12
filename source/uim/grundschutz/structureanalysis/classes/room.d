@@ -7,3 +7,4 @@ class DBSIPerson : DBSIEntity {
     super();
   }
 }
+auto BSIPerson() { return new DBSIPerson; }

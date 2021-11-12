@@ -7,3 +7,4 @@ class DBSIBuilding : DBSIEntity {
     super();
   }
 }
+auto BSIBuilding() { return new DBSIBuilding; }

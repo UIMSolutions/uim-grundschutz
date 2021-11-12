@@ -7,3 +7,4 @@ class DBSINet : DBSIEntity {
     super();
   }
 }
+auto BSINet() { return new DBSINet; }
