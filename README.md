@@ -1,3 +1,3 @@
 # uim-grundschutz
 
-Base Library for Grundschutz projects
+Base library for Grundschutz projects
